@@ -1,0 +1,6 @@
+jest.setup.js
+jest.config.js
+/build/**
+/coverage/**
+/docs/**
+/node_modules
