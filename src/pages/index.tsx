@@ -1,3 +1,7 @@
 export default function Home() {
-  return <h1>Next Blank</h1>;
+  return (
+    <div className="h-96 w-full bg-purple-500 flex items-center justify-center">
+      <h1>Next blank with tailwind</h1>
+    </div>
+  );
 }
