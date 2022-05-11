@@ -25,6 +25,7 @@
     "react/jsx-filename-extension": [1, { "extensions": [".ts", ".tsx"] }], // permitir conteudos JSX nas extensoes .ts e .tsx
     "react/react-in-jsx-scope": 0, // desobriga a importacao do React
     "linebreak-style": 0, // ignorar os formatos de quebra de linha entre Unix e Windows
-    "react/jsx-props-no-spreading": 0 // desabilita erros de spreding nas props de componentes React
+    "react/jsx-props-no-spreading": 0, // desabilita erros de spreding nas props de componentes React
+    "import/prefer-default-export": "off" //desabilita a preferencia por export default
   }
 }
